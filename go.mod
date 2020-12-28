@@ -1,4 +1,4 @@
-module github.com/AlexY0905/go-go-storedcounter-yst-1
+module github.com/AlexY0905/go-go-storedcounter-yst-1/v2
 
 go 1.14
 
