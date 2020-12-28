@@ -6,7 +6,7 @@ import (
 	"github.com/ipfs/go-datastore"
 	"github.com/stretchr/testify/require"
 
-	"github.com/filecoin-project/go-storedcounter"
+	"github.com/AlexY0905/go-go-storedcounter-yst-1"
 )
 
 func TestStoredCounter(t *testing.T) {

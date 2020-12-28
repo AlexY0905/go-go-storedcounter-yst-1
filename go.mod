@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-storedcounter
+module github.com/AlexY0905/go-go-storedcounter-yst-1
 
 go 1.14
 
